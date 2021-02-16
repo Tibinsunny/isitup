@@ -1,0 +1,13 @@
+{
+    "name": "tibinsunny/isitup",
+    "description": "Check if the host is rechable or not without CURL",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tibinsunny",
+            "email": "tibinsunny95@gmail.com"
+        }
+    ],
+    "require": {}
+}
