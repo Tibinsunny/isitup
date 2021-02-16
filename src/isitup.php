@@ -1,7 +1,7 @@
 <?php
-namespace isitup;
+namespace isItup;
 
-class isitup
+class isItup
 {
     public function check($URL)
     {
