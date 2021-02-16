@@ -1,6 +1,6 @@
 {
     "name": "tibinsunny/isitup",
-    "description": "isitup is a simple php library which allows users to check if a host is up without using CURL or PING🚀",
+    "description": "Check if the site is rechable without using CURL🚀",
     "type": "package",
     "require": {
         "php": ">=5.3.0"
