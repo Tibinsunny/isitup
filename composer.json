@@ -1,18 +1,20 @@
 {
     "name": "tibinsunny/isitup",
-    "description": "Check if the host is rechable or not without CURL",
-    "type": "library",
-    "license": "MIT",
+    "description": "isitup is a simple php library which allows users to check if a host is up without using CURL or PING🚀",
+    "type": "package",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "mit",
     "authors": [
         {
-            "name": "tibinsunny",
+            "name": "Tibin Sunny",
             "email": "tibinsunny95@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
-            "isItup\\": "src/"
+            "isitup\\": "src/"
         }
     }
 }
