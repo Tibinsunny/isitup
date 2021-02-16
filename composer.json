@@ -1,5 +1,5 @@
 {
-    "name": "tibinsunny/isItup",
+    "name": "tibinsunny/isitup",
     "description": "Check if the host is rechable or not without CURL",
     "type": "library",
     "license": "MIT",
